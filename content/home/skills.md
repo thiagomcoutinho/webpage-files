@@ -40,8 +40,8 @@ icon_pack = "fab"
 name = "Linux"
 
 [[feature]]
-icon = "c-plus-plus"
-icon_pack = "ai"
+icon = "microchip"
+icon_pack = "fas"
 name = "C++"
 
 +++
